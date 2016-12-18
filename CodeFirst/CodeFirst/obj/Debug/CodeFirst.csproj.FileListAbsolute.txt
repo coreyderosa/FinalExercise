@@ -1,0 +1,10 @@
+D:\Documents\School\Tech Academy\C# and ASPnet Course\Final Exercise\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+D:\Documents\School\Tech Academy\C# and ASPnet Course\Final Exercise\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csprojResolveAssemblyReference.cache
+D:\Documents\School\Tech Academy\C# and ASPnet Course\Final Exercise\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\Final Exercise\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+D:\Documents\School\Tech Academy\C# and ASPnet Course\Final Exercise\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+D:\Documents\School\Tech Academy\C# and ASPnet Course\Final Exercise\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\School\Tech Academy\C# and ASPnet Course\Final Exercise\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+D:\Documents\School\Tech Academy\C# and ASPnet Course\Final Exercise\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\School\Tech Academy\C# and ASPnet Course\Final Exercise\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\Final Exercise\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
